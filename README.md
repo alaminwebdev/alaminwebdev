@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Github-Finder](https://alaminwebdev.github.io/github-finder/)**
+- 🔭 I’m currently working on **[foodie - A restaurant management system](https://github.com/alaminwebdev/foodie)**
 
 - 🌱 I’m currently learning **React, NodeJS, Express & MongoDB**
 
