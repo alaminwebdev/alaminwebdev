@@ -14,13 +14,13 @@
 
 - 🔭 I’m currently working on **[foodie - A restaurant management system](https://github.com/alaminwebdev/foodie)**
 
-- 🌱 I’m currently learning **React, NodeJS, Express & MongoDB**
+- 🌱 I’m currently learning **Laravel & VueJS**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://alaminwebdev.github.io/portfolio/)**
 
-- 📫 How to reach me **alamiin.bd@gmail.com**
+- 📫 How to reach me **alamin80336034@gmail.com**
 
 
 
