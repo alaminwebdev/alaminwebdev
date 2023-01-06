@@ -4,9 +4,9 @@
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3><br>
 
 [![Visits Badge](https://img.shields.io/badge/Visit-Website-success?style=flat)](https://alaminwebdev.github.io/portfolio/)
-[![Facebook Badge](https://img.shields.io/badge/Fb-Profile-blue?style=flat&logo=facebook&logoColor=white&color=00B2FF)](https://www.facebook.com/findalaminID/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=4AB197 )](https://www.linkedin.com/in/md-al-amin-895926174/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/Alamin57627423)
+[![Facebook Badge](https://img.shields.io/badge/Fb-Profile-blue?style=flat&logo=facebook&logoColor=white&color=00B2FF)](https://www.facebook.com/alamin98bd/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=4AB197 )](https://www.linkedin.com/in/mdalamin1998/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/alamin1998bd)
 
 
 
