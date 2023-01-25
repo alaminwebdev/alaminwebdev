@@ -102,7 +102,7 @@
 -->
 
 <a href="https://github.com/alaminwebdev">
-  <img align="center" style="margin:0 auto" src="https://github-readme-stats.vercel.app/api?username=alaminwebdev&show_icons=true&line_height=27&count_private=true&hide=contribs,prs&theme=transparent" alt="Alamin's GitHub Stats" />
+  <img align="center" style="margin:0 auto" src="https://github-readme-stats.vercel.app/api?username=alaminwebdev&show_icons=true&line_height=27&count_private=true&hide=contribs,prs&theme=transparent&title_color=4AB197" alt="Alamin's GitHub Stats" />
 </a>
 
 <br>
