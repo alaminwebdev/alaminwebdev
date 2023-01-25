@@ -32,6 +32,7 @@
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=4AB197)
 
 <!--
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
@@ -48,7 +49,6 @@
 <summary>More Skills</summary>
 <br>
 
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-VisualStudioCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-gulp-informational?style=flat&logo=gulp&logoColor=white&color=4AB197)
@@ -66,14 +66,14 @@
 
 </details>
 
-## 📌 Pinned Repositories
+<!-- ## 📌 Pinned Repositories 
 
 <br>
-<!--
+
 <a href="https://github.com/alaminwebdev/Resturent_Project_By_React">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alaminwebdev&repo=Resturent_Project_By_React&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
--->
+
 
 <a href="https://github.com/alaminwebdev/github-finder">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=alaminwebdev&repo=github-finder&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -90,7 +90,7 @@
 
 <br>
 <br>
-
+-->
 
 ## &#x1f4c8; GitHub Stats
 
