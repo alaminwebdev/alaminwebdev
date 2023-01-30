@@ -1,7 +1,6 @@
 ![Header](./github-header-image.png)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohammad Al Amin</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3><br>
+<h3 align="center"></h3><br>
 
 [![Visits Badge](https://img.shields.io/badge/Visit-Website-success?style=flat)](https://alaminwebdev.github.io/portfolio/)
 [![Facebook Badge](https://img.shields.io/badge/Fb-Profile-blue?style=flat&logo=facebook&logoColor=white&color=00B2FF)](https://www.facebook.com/alamin98bd/)
