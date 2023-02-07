@@ -11,7 +11,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[foodie - A restaurant management system](https://github.com/alaminwebdev/foodie)**
+- 🔭 I’m currently working on **[echo365 - An online news portal web application](https://github.com/alaminwebdev/echo365.git)**
 
 - 🌱 I’m currently learning **Laravel & VueJS**
 
