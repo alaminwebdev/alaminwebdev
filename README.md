@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 Some of my demo projects are available at **[Demo](https://alaminwebdev.github.io/portfolio/)**
+- 👨‍💻 Some of my demo projects are available at **[Link](https://alaminwebdev.github.io/portfolio/)**
 
 - 📫 How to reach me **mohammadalamin.dev@gmail.com**
 
