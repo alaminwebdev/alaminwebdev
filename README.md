@@ -3,17 +3,19 @@
 <h3 align="center"></h3><br>
 
 [![Visits Badge](https://img.shields.io/badge/Visit-Website-success?style=flat)](https://alaminwebdev.github.io/portfolio/)
-[![Facebook Badge](https://img.shields.io/badge/Fb-Profile-blue?style=flat&logo=facebook&logoColor=white&color=00B2FF)](https://www.facebook.com/alamin98bd/)
+[![Facebook Badge](https://img.shields.io/badge/Fb-Profile-blue?style=flat&logo=facebook&logoColor=white&color=00B2FF)](https://www.facebook.com/mohammadalamin.dev/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=4AB197 )](https://www.linkedin.com/in/mdalamin1998/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/alamin1998bd)
 
+<!--
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/alamin1998bd)
+-->
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[echo365 - An online news portal web application](https://github.com/alaminwebdev/echo365.git)**
 
-- 🌱 I’m currently learning **Laravel & VueJS**
+- 🌱 I’m currently learning **Laravel & React**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -42,7 +44,7 @@
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=Express&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
--->
+
 
 <details>
 <summary>More Skills</summary>
@@ -64,6 +66,7 @@
 
 
 </details>
+-->
 
 <!-- ## 📌 Pinned Repositories 
 
