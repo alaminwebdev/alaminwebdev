@@ -2,7 +2,7 @@
 
 <h3 align="center"></h3><br>
 
-[![Visits Badge](https://img.shields.io/badge/Visit-Website-success?style=flat)](https://alaminwebdev.github.io/portfolio/)
+[![Visits Badge](https://img.shields.io/badge/Visit-Website-success?style=flat)](https://md-al-amin.com/)
 [![Facebook Badge](https://img.shields.io/badge/Fb-Profile-blue?style=flat&logo=facebook&logoColor=white&color=00B2FF)](https://www.facebook.com/mohammadalamin.dev/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=4AB197 )](https://www.linkedin.com/in/mdalamin1998/)
 
@@ -13,13 +13,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[echo365 - An online news portal web application](https://github.com/alaminwebdev/echo365.git)**
+- 🔭 I’m currently working on **[Intelli Inventory- An Inventory Management System](https://github.com/alaminwebdev/Intelli_inventory.git)**
 
 - 🌱 I’m currently learning **Laravel & React**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 Some of my demo projects are available at **[Link](https://alaminwebdev.github.io/portfolio/)**
+- 👨‍💻 Some of my demo projects are available at **[Link](https://md-al-amin.com/)**
 
 - 📫 How to reach me **mohammadalamin.dev@gmail.com**
 
