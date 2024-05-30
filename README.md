@@ -34,6 +34,9 @@
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 
 <!--
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
@@ -93,19 +96,17 @@
 <br>
 <br>
 -->
-
-## &#x1f4c8; GitHub Stats
-
-<br>
 <!--
+## &#x1f4c8; GitHub Stats
+<br>
+
 <a href="https://github.com/alaminwebdev">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminwebdev&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
--->
 
 <a href="https://github.com/alaminwebdev">
   <img align="center" style="margin:0 auto" src="https://github-readme-stats.vercel.app/api?username=alaminwebdev&show_icons=true&line_height=27&count_private=true&hide=contribs,prs&theme=transparent&title_color=4AB197&icon_color=4AB197" alt="Alamin's GitHub Stats" />
 </a>
-
 <br>
 <br>
+-->
