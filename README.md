@@ -13,9 +13,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Intelli Inventory- An Inventory Management System](https://github.com/alaminwebdev/Intelli_inventory.git)**
+<! -- - 🔭 I’m currently working on **[Intelli Inventory- An Inventory Management System](https://github.com/alaminwebdev/Intelli_inventory.git)** -->
 
-- 🌱 I’m currently learning **Laravel & React**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
