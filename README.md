@@ -2,7 +2,7 @@
 
 <h3 align="center"></h3><br>
 
-[![Visits Badge](https://img.shields.io/badge/Visit-Website-success?style=flat)](https://md-al-amin.com/)
+[![Visits Badge](https://img.shields.io/badge/Visit-Website-success?style=flat)](https://alaminwebdev.github.io/)
 [![Facebook Badge](https://img.shields.io/badge/Fb-Profile-blue?style=flat&logo=facebook&logoColor=white&color=00B2FF)](https://www.facebook.com/mohammadalamin.dev/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=4AB197 )](https://www.linkedin.com/in/mdalamin1998/)
 
@@ -20,9 +20,9 @@
 - 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
+<!-- 
 - 👨‍💻 Some of my demo projects are available at **[Link](https://md-al-amin.com/)**
-
+-->
 - 📫 How to reach me **mohammadalamin.dev@gmail.com**
 
 
